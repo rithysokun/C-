@@ -1,1 +1,1 @@
-# C-
+# Simple guessing number in C++
